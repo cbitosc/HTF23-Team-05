@@ -1,0 +1,234 @@
+.non-main{
+    background-color: #241663;
+    border-top-right-radius: 30px;
+}
+
+.ok{
+    margin: 0px;
+    padding: 0px;
+}
+
+.maintain{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.main-box{
+    height: 280px;
+    width: 80%;
+    background-color: #892cdc;
+    border-radius: 30px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.logo{
+    max-height: 90px;
+    width: fit-content;
+}
+
+.alicr{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.menu_opt{
+    justify-content: space-around;
+    margin-right: auto;
+    margin-left: 0px;
+}
+
+.options{
+    margin: 20px 0px;
+    color: #9994b7 !important;
+    padding-left: 40px;
+    padding-right: 120px;
+    cursor: pointer;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+
+}
+
+.options i{
+    margin-right: 10px;
+}
+
+.selected{
+    margin: 20px 0px;
+    color: #fff !important;
+    background-color: #892cdc;
+    padding-left: 40px;
+    padding-right: 120px;
+    padding-top:10px ;
+    padding-bottom: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    cursor: pointer;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+
+}
+
+.selected i{
+    margin-right: 10px;
+}
+
+.circular-progress-container {
+
+    height: 50%; 
+  }
+  
+  .neo.main-box {
+
+    padding: 20px; 
+  }
+
+  .dev{
+    height: 420px;
+    width: 420px;
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-bottom: 150px;
+  }
+
+  .cpb{
+    min-width: 200px;
+    min-height: 200px;
+    margin-left:40px ;
+  }
+
+  .mainh{
+    min-width: 200px;
+    color: aliceblue !important;
+    font-size: 26px !important;
+  }
+
+  .cent{
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .mainh2{
+    font-size: 16px !important;
+    margin-top: 30px;
+  }
+
+  .logout{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: aliceblue;
+    margin-top: 100%;
+    width: 70%;
+    padding: 10px 0px;
+    background-color: red;
+    margin-bottom: 20px;
+    border-radius: 20px;
+    cursor: pointer;
+    
+  }
+
+  .logout i{
+    margin-right: 10px;
+  }
+
+
+  .profile_img{
+    width: 25px;
+    height: 25px;
+    cursor: pointer;
+    border: 1px solid var(--primary-color);
+    border-radius: 50%;
+}
+
+.aliotl{
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+    width: 100%;
+    margin-bottom: 60px;
+}
+
+.dffdr{
+    display: flex;
+    align-items: center;
+}
+
+.aliotl h5{
+    font-size: 12px;
+    margin-right: 100px;
+    margin-left: 10px;
+    color: aliceblue !important;
+}
+.hello{
+    width: 100%;
+    margin-left: 250px;
+    margin-bottom: 30px;
+    
+}
+
+.hello h2{
+    color: aliceblue !important;
+    font-weight: 700 !important;
+}
+
+.tickboxes {
+    display: flex;
+    flex-direction: column;
+    margin-left: 100px;
+    margin-top: 30px;
+    position: relative;
+    color: aliceblue !important;
+}
+
+.boox{
+    background-color: #241663;
+    height: 100px;
+    width: 400px;
+    border-radius: 30px;
+    margin: 10px 0px;
+}
+
+.completed-task{
+    border: 1px solid rgb(46, 246, 46);
+}
+
+.pending-task{
+    border: 1px solid yellow;
+}
+
+.not-started-task{
+    border: 1px solid #892cdc;
+}
+
+.allalice h5{
+    color: aliceblue !important ;
+}
+
+.progress{
+    margin: 30px 0px;
+}
+
+.boox{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding-left: 40px;
+    cursor: pointer;
+}
+
+.bttn{
+    padding: 3px 20px;
+    color: #fff;
+    background-color: #241663;
+    border: 1px solid #fff;
+    border-radius: 50px;
+}
+
+
