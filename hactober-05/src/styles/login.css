@@ -1,0 +1,83 @@
+
+
+.google_btn{
+    outline: 0;
+    display: inline-flex;
+    align-items: center;
+    justify-content: space-between;
+    background: aliceblue;
+    min-width: 200px;
+    border: 0;
+    border-radius: 40px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, .1);
+    box-sizing: border-box;
+    padding: 16px 20px;
+    color: #000;
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: 1.2px;
+    text-transform: uppercase;
+    overflow: hidden;
+    cursor: pointer;
+    margin-top: 30px;
+    height: 50px;
+    border: 1px solid #000;
+}
+
+.google_btn:hover {
+    opacity: .95;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, .3);
+  }
+  
+.google_btn .animation {
+    border-radius: 100%;
+    animation: ripple 0.6s linear infinite;
+  }
+
+.google_btn img{
+    height: 20px;
+    width: 20px;
+    margin: 10px;
+}
+
+.auth__form input{
+    width: 80%;
+    height: 50px;
+    border-radius: 40px;
+    border: .5px solid grey;
+    padding-left: 30px;
+}
+
+.OR{
+    margin: 30px 0px;
+}
+
+
+.auth__btn{
+    border-radius: 50px;
+background: #f0f8ff;
+box-shadow:  20px 20px 60px #ccd3d9,
+             -20px -20px 60px #ffffff;
+    width: 300px;
+    height: 50px;
+    border: 1px solid grey;
+    margin-top: 30px;
+}
+
+.auth__btn:hover{
+    opacity: .95;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, .3); 
+}
+
+.sect__bg{
+    background-color: #f0f8ff;
+    background-size: 100%;
+}
+
+.log_box{
+    background-color: aliceblue;
+    padding: 30PX;
+    border-radius: 30px ;
+    box-shadow:  20px 20px 60px #ccd3d9,
+             -20px -20px 60px #ffffff;
+}
